@@ -41,19 +41,19 @@ public class Survey {
     private String imageLink;
 
     @Column(name = "active")
-    private int active;
+    private Integer active;
 
     @Column(name = "deleted")
-    private int deleted;
+    private Integer deleted;
 
     @Column(name = "yes")
-    private int yes;
+    private Integer yes;
 
     @Column(name = "no")
-    private int no;
+    private Integer no;
 
     @Column(name = "report_counter")
-    private int reportCounter;
+    private Integer reportCounter;
 
     @Column(name = "user_email")
     private String email;

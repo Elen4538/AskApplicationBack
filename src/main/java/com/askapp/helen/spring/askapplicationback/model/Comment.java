@@ -28,7 +28,7 @@ public class Comment {
     //FK to Survey Table because we can have a comment or not at all
     //@Column(name = "questionID")
     @ManyToOne
-    @JoinColumn(name = "question_id") // TODO check fetchType in Comment
+    @JoinColumn(name = "question_id") // TODO check fetchType in Comment entity
     private Survey commentSurvey;
 
 }

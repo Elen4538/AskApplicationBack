@@ -7,6 +7,6 @@ import org.springframework.stereotype.Service;
  * @project AskApplicationBack
  * @date 26/05/2023
  */
-@Service
+
 public interface UserService {
 }
