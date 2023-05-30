@@ -45,15 +45,20 @@ public class controller {
         Survey savedSurvey = surveyService.saveNewSurvey(survey);
 
         HttpHeaders headers = new HttpHeaders();
-
         // change headers
         headers.add("Location", "/api/mysurvey/" + savedSurvey.getSurveyLink().toString());
 
         return new ResponseEntity(headers, HttpStatus.CREATED);
+    }
+    //patch methods
+    @PatchMapping("{surveyLink}")
+    public ResponseEntity updateSurveyPatchByLink(
+            @PathVariable("surveyLink") String surveyLink,
+            @RequestBody Survey survey) {
+        surveyService.patchSurveyByLink(surveyLink, survey);
+        return new ResponseEntity(HttpStatus.NO_CONTENT);
 
     }
-
-    //patch methods
 
 
 }

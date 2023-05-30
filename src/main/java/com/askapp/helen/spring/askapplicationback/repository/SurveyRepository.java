@@ -15,5 +15,5 @@ public interface SurveyRepository extends JpaRepository<Survey, Long> {
     List<Survey> findAllByUser(String userEmail);
     void deleteSurvey(String surveyLink);
 
-    void patchSurveyByLink(String surveyLink);
+    void patchSurveyByLink(String surveyLink, Survey survey);
 }

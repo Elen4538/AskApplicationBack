@@ -29,6 +29,6 @@ public class Comment {
     //@Column(name = "questionID")
     @ManyToOne
     @JoinColumn(name = "question_id") // TODO check fetchType in Comment entity
-    private Survey commentSurvey;
+    private Survey survey;
 
 }
