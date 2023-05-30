@@ -4,7 +4,11 @@ Simple survey tool to calc amount of Yes and No for certain question.
 Scheme could be found here: askask-v4.drawio
 (open via draw.io tool)
 
-![image](https://github.com/Elen4538/AskApplicationBack/assets/84009999/5b00d977-3396-4925-8b90-e47c28b4f901)
-![image](https://github.com/Elen4538/AskApplicationBack/assets/84009999/c6dde21d-2ef3-466b-8517-ceadb7cf5bcd)
-![image](https://github.com/Elen4538/AskApplicationBack/assets/84009999/6665b764-d7fa-4d1e-8c58-505c129fd19c)
-![image](https://github.com/Elen4538/AskApplicationBack/assets/84009999/238a42b3-e0d6-4b01-bdce-5c1ea545d45b)
+
+![image](https://github.com/Elen4538/AskApplicationBack/assets/84009999/abc98a62-5f3d-41d8-9f78-e322803a3b1d)
+![image](https://github.com/Elen4538/AskApplicationBack/assets/84009999/a89fc2a8-074d-47d5-8836-4748031c7d9c)
+![image](https://github.com/Elen4538/AskApplicationBack/assets/84009999/8bac8d8c-3dc6-44f0-9b3b-dc0b841722c2)
+![image](https://github.com/Elen4538/AskApplicationBack/assets/84009999/f687bde3-bc98-42bd-a75d-5dc94418455b)
+
+![image](https://github.com/Elen4538/AskApplicationBack/assets/84009999/d9895d2b-72f3-4fa9-96d3-8cfb15201fb2)
+![image](https://github.com/Elen4538/AskApplicationBack/assets/84009999/61bd19b8-173a-4756-9a20-a01b233d1e61)
